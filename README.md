@@ -20,7 +20,7 @@ This repository is organized in 5 directories, which contains the source codes t
 **Figure**: *Scheme of the “Viroplasm Direct Least Square Fitting Circumference” algorithm (VPs-DLSFC). SRM) Complete SRM image; A) Manual pre-segmentation step, an expert selects and isolates each viroplasm as a single image; B) Fit a circumference to the reference protein through the algorithm DLSFC; C) The center of the reference protein is taken as the center of the accompanying protein, and then the radius of the adjust circumference for this second protein is computed.*      
 5. **R Codes**: It includes all the R source codes for the statistical analysis. For more details consult the README file into this directory.
 
-
+### This code is associated with the paper from Garcés Suárez et al., "Nanoscale organization of rotavirus replication machineries". eLife, 2019. http://dx.doi.org/10.7554/eLife.42906
 
 
 
